@@ -1,0 +1,14 @@
+Theoretical Data Source: Amsterdam availability data scraped from AirBnB on December 24th.
+
+Question: What are the popular neighborhoods in Amsterdam?
+Answer: The problem with this data is exceptional circumstance. It is almost certainly not indicative of the usual popularity as travel will possibly be limited as well as availability at the time.
+
+Theoretical Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY.
+
+Question: How do patterns of mental health service use vary between cities?
+Answer: Again I would cite exceptional circumstance and bias. It's fairly easy to assess that New York would have had a massive influx of people requiring mental health services after 9/11. Though I would expect there to have been an uptick all across the country, including San Francisco.
+
+Actual Data Source: Armenian Pub Survey.
+
+Question: What are the most common reasons Armenians visit local pubs?
+Answer: Armenians visit local pubs primarily to meet friends and for the environment. I do think the survey is heavily biased though as 79% of respondents were in the capital and a whopping 93% of respondents are students. Not very indicative of the Armenian people as a whole.
